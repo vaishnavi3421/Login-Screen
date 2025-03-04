@@ -15,6 +15,6 @@ If validation fails, an **UIAlertController** displays relevant messages. Upon s
 - **Simple UI**: Clean and easy-to-use login screen  
 
 ### Screenshot  
-
+![Image](https://github.com/user-attachments/assets/2100baf9-1cc9-4391-aeb9-80f7d4711d33)
 
   
